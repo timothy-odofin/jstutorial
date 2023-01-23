@@ -1,6 +1,6 @@
 const og ="Ogun"
 const os ="Osun"
-const state =["Ogun", "Oyo", "Osun","Kano", "Ondo", "Imo", "Kwara", "Yola", "Kaduna"] //{} -> Object [] -> array
+const state =["Ogun","Kogi", "Oyo", "Osun","Kano", "Ondo", "Imo", "Kwara", "Yola", "Kaduna"] //{} -> Object [] -> array
 
 console.log(state[0]) // Ogun
 console.log(state[6])
