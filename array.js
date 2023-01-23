@@ -10,3 +10,4 @@ const state2 =["Ogun", "Oyo", "Osun",] //{} -> Object [] -> array
 const state3 =[] //{} -> Object [] -> array
 console.log(state3.length) // method of array
 console.log(state3[3])
+// This is another example
